@@ -1,0 +1,9 @@
+{
+    "telegram_token": "YOUR_BOT_TOKEN_HERE",
+    "allowed_ids": [
+        123456789
+    ],
+    "server_path": "C:\\Path\\To\\Minecraft\\Server",
+    "server_jar": "server.jar",
+    "java_args": "-Xmx2G"
+}
