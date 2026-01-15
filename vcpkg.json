@@ -1,0 +1,8 @@
+{
+    "name": "telegram-mc-bot",
+    "version": "1.0.0",
+    "dependencies": [
+        "tgbot-cpp",
+        "nlohmann-json"
+    ]
+}

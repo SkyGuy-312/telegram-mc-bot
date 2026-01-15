@@ -1,0 +1,12 @@
+build/
+cmake-portable/
+vcpkg_installed/
+*.user
+*.vs/
+config.json
+.vscode/
+__pycache__/
+*.exe
+*.obj
+*.pdb
+*.ilk
